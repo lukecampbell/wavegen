@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/wavegen/!svn/ver/28/wavGen
+END
+fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/wavegen/!svn/ver/8/wavGen/fft.c
+END
+waveGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/wavegen/!svn/ver/28/wavGen/waveGen.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/wavegen/!svn/ver/28/wavGen/main.c
+END
+template.glade
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/wavegen/!svn/ver/23/wavGen/template.glade
+END
+gtkmethods.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/wavegen/!svn/ver/28/wavGen/gtkmethods.c
+END
+gtkradio.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/wavegen/!svn/ver/23/wavGen/gtkradio.h
+END
+template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/wavegen/!svn/ver/23/wavGen/template.xml
+END
+waveforms.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/wavegen/!svn/ver/28/wavGen/waveforms.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/wavegen/!svn/ver/23/wavGen/Makefile
+END

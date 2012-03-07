@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svnroot/wavegen/!svn/ver/31/riff
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/wavegen/!svn/ver/27/riff/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/wavegen/!svn/ver/26/riff/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/wavegen/!svn/ver/26/riff/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/wavegen/!svn/ver/26/riff/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/wavegen/!svn/ver/26/riff/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/wavegen/!svn/ver/26/riff/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/wavegen/!svn/ver/27/riff/config.h.in
+END
+doxygen.conf
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/wavegen/!svn/ver/30/riff/doxygen.conf
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/wavegen/!svn/ver/27/riff/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/wavegen/!svn/ver/26/riff/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/wavegen/!svn/ver/26/riff/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/wavegen/!svn/ver/26/riff/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/wavegen/!svn/ver/26/riff/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/wavegen/!svn/ver/26/riff/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/wavegen/!svn/ver/26/riff/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/wavegen/!svn/ver/26/riff/install-sh
+END

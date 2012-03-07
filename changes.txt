@@ -1,0 +1,29 @@
+R19
+main.c:Changed from calling malloc() in main() to allocate for the two channel Waveform structs to using g_slice_new(Waveform).  
+gtkmethods.c:120 properly typecasted app->vscale1 to a GtkRange whereas before it was a GtkWidget being sent to a function that handles gtk_ranges.  It was an almost irrelevent change but the compiler warnings are gone now.
+
+R15
+Major Revision
+Added a GTK GUI to the Wave Generator, 
+Still adding more to the gui.  MAJOR MAJOR improvements and changes
+
+R14
+Completely redid wavegen to add some level of scalability, and soon I can add more layers like interfaces, I will eventually get to it.  
+See waveGen.h for all the defined waveforms.
+
+Now the developers can easily scale this by passing a new struct to the functions and fillChannel().  
+
+R?
+Just ensuring that I still maintain this project, I really need to get some time and go through this and add stuff.
+
+R4
+I added all the basic files to wavPlayer and riff, still in pre-alpha stage...
+
+Added complex capabilities for future FFT
+
+R8 I think...
+PCM.c and PCM.h
+The structure pcmSettings' sample rate variable was called sampleRate not samplerate so I replaced the two strings to allow it to compile.
+
+Sun Sep 12 13:51:38 EDT 2010
+Changed the makefiles, added doxygen to riff, decentralized riff into a library libriff2, added LGPL to libriff2.

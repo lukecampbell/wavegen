@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/wavegen/!svn/ver/31/riff/src
+END
+pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/wavegen/!svn/ver/31/riff/src/pcm.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/wavegen/!svn/ver/26/riff/src/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/wavegen/!svn/ver/26/riff/src/Makefile.am
+END
+riff2_pcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/wavegen/!svn/ver/31/riff/src/riff2_pcm.h
+END
+riff2.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/wavegen/!svn/ver/31/riff/src/riff2.h
+END
